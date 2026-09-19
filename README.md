@@ -14,8 +14,6 @@
 
 <br>
 
----
-
 <p align="center">
  <b><i>Interested in cybersecurity, security research, and building practical security tools.</i></b>
 </p>
