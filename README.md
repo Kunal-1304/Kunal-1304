@@ -1,13 +1,10 @@
-<h1 align="center">Hi, I'm Kunal Pawar 👋</h1>
+<div align="center">
 
-<h3 align="center">
-Cybersecurity Student | Web Security & VAPT | SOC & Security Automation
-</h3>
+<img src="./security-terminal.svg" alt="Kunal Pawar - Cybersecurity Terminal" width="900">
 
-<p align="center">
-Building security tools, exploring web security, analyzing threats,
-and automating security workflows with Python and Bash.
-</p>
+</div>
+
+<br>
 
 <p align="center">
 🔐 Web Security & VAPT
