@@ -79,21 +79,21 @@ An interactive cybersecurity dashboard for monitoring and analyzing simulated th
 
 ## 💼 Experience
 
-### 🔐 Cybersecurity Intern — Cyber Secured India
-**Jun 2025 – Aug 2025**
-
-- Researched, installed, and configured security monitoring tools including `Wazuh`, `Suricata`, and `MISP`
-- Worked with NOC and network-monitoring tools including `PRTG` and `Zabbix`
-- Explored SOC workflows, security monitoring, alerting, and network visibility
-
 ### 🛡️ VAPT Intern — CYART
-**Internship Completed**
+**6 months - Feb to august 2026**
 
 - Worked on practical web application security and VAPT activities
 - Documented weekly security-testing work and findings throughout the internship
 - Maintained structured internship reports covering the work performed
 
 📂 [Internship Documentation](https://github.com/Kunal-1304/cyart-vapt-team)
+
+### 🔐 Cybersecurity Intern — Cyber Secured India
+**Jun 2025 – Aug 2025**
+
+- Researched, installed, and configured security monitoring tools including `Wazuh`, `Suricata`, and `MISP`
+- Worked with NOC and network-monitoring tools including `PRTG` and `Zabbix`
+- Explored SOC workflows, security monitoring, alerting, and network visibility
 
 ### 📊 Security Intern — Placify Technologies
 **Jun 2024 – Aug 2024**
