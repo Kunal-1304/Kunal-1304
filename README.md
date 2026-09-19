@@ -106,3 +106,16 @@ An interactive cybersecurity dashboard for monitoring and analyzing simulated th
 
 - Worked with basic PowerShell installation and setup
 - Gained foundational exposure to cybersecurity tooling and environments
+
+---
+
+## 🎓 Certifications & Training
+
+- 🔐 **Pre-Security** — TryHackMe
+- 🐍 **Python Essentials 1 & 2** — Cisco Networking Academy
+- 🌐 **JavaScript Essentials 1 & 2** — Cisco Networking Academy
+- 🗄️ **SQL, DSA, C++, Java Bootcamp** — Let's Upgrade
+- 💼 **Career Edge – Young Professional** — TCS iON
+- 🛡️ **Cybersecurity Internship** — Cyber Secured India
+- 📊 **Security Internship** — Placify Technologies
+- 🔒 **Cybersecurity Internship** — Cybervidyapeeth Foundation
