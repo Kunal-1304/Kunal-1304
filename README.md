@@ -16,6 +16,12 @@
 
 ---
 
+<p align="center">
+ <b><i>Interested in cybersecurity, security research, and building practical security tools.</i></b>
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 I'm a B.Tech Computer Science student specializing in Cybersecurity, with hands-on experience across **web security, VAPT, security monitoring, threat intelligence, and security automation**.
@@ -25,12 +31,6 @@ Through academic projects and internships, I've worked with **SIEM and SOC tools
 Currently, I'm focusing on strengthening my skills in **web application security, VAPT, Python/Bash automation, security tooling, and practical security research**.
 
 > 🔎 **Security interests:** Web Security • VAPT • SOC • Threat Intelligence • Security Automation
-
----
-
-<p align="center">
-  <i>Interested in cybersecurity, security research, and building practical security tools.</i>
-</p>
 
 ---
 
