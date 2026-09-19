@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Kunal Pawar 👋</h1>
 
-<!--
-**Kunal-1304/Kunal-1304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Cybersecurity Student | Web Security & VAPT | SOC & Security Automation
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building security tools, exploring web security, analyzing threats,
+and learning how to automate security workflows with Python and Bash.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+🔐 Web Security & VAPT
+&nbsp; • &nbsp;
+🛡️ SOC & Security Monitoring
+&nbsp; • &nbsp;
+⚙️ Security Automation
+&nbsp; • &nbsp;
+🕵️ Threat Intelligence
+</p>
+
+<p align="center">
+🐍 Python &nbsp; | &nbsp; 🐚 Bash &nbsp; | &nbsp; 🐧 Linux
+</p>
