@@ -34,3 +34,26 @@ Through academic projects and internships, I've worked with **SIEM and SOC tools
 Currently, I'm focusing on strengthening my skills in **web application security, VAPT, Python/Bash automation, security tooling, and practical security research**.
 
 > 🔎 **Security interests:** Web Security • VAPT • SOC • Threat Intelligence • Security Automation
+
+
+---
+
+## 🛠️ Technical Skills
+
+### 🔐 Security & VAPT
+`Web Security` `VAPT` `OWASP` `Vulnerability Assessment` `Security Testing`
+
+### 🛡️ SOC & Security Monitoring
+`SIEM` `Wazuh` `Splunk` `Suricata` `Zabbix` `PRTG` `Network Monitoring`
+
+### 🕵️ Threat Intelligence & Malware Analysis
+`Threat Intelligence` `YARA` `CAPE / Cuckoo Sandbox` `Malware Analysis`
+
+### ⚙️ Security Tools
+`Wireshark` `Nikto` `SEToolkit` `Autopsy` `FTK Imager` `Pro-Discover`
+
+### 💻 Programming & Automation
+`Python` `Bash` `Web Crawling` `Security Automation`
+
+### 🌐 Web & Networking
+`HTML` `CSS` `Networking` `TCP/IP` `Web Technologies`
