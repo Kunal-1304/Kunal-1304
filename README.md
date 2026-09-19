@@ -138,7 +138,7 @@ I'm currently focused on building practical cybersecurity skills through hands-o
 
 ## 📊 GitHub Activity
 
-<p>
+<p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
