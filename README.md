@@ -20,6 +20,14 @@
 🐍 Python &nbsp; | &nbsp; 🐚 Bash &nbsp; | &nbsp; 🐧 Linux
 </p>
 
+<div align="center">
+
+<img src="./security-neofetch.svg" alt="Kunal Pawar security lab profile" width="900">
+
+</div>
+
+<br>
+
 ---
 
 ## 👨‍💻 About Me
