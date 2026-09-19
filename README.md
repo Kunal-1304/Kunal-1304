@@ -16,28 +16,6 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./profile/github-activity-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./profile/github-activity-light.svg"
-    />
-    <img
-      src="./profile/github-activity-dark.svg"
-      alt="GitHub activity statistics"
-      width="900"
-    />
-  </picture>
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 I'm a B.Tech Computer Science student specializing in Cybersecurity, with hands-on experience across **web security, VAPT, security monitoring, threat intelligence, and security automation**.
@@ -148,6 +126,26 @@ I'm currently focused on building practical cybersecurity skills through hands-o
 - 🐧 Linux & Security Tooling
 
 > 🚧 Currently rebuilding and improving my security projects with a focus on practical implementation, documentation, and automation.
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./profile/github-activity-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./profile/github-activity-light.svg"
+    />
+    <img
+      src="./profile/github-activity-dark.svg"
+      alt="GitHub activity statistics"
+      width="900"
+    />
+  </picture>
+</p>
 
 ---
 
