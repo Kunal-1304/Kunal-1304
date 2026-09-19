@@ -30,6 +30,7 @@ Currently, I'm focusing on strengthening my skills in **web application security
 
 > 🔎 **Security interests:** Web Security • VAPT • SOC • Threat Intelligence • Security Automation
 
+
 ---
 
 ## 🛠️ Technical Skills
@@ -52,6 +53,7 @@ Currently, I'm focusing on strengthening my skills in **web application security
 ### 🌐 Web & Networking
 `HTML` `CSS` `Networking` `TCP/IP` `Web Technologies`
 
+
 ---
 
 ## 🚀 Featured Projects
@@ -69,6 +71,7 @@ An interactive cybersecurity dashboard for monitoring and analyzing simulated th
 **Tech:** `React` `TailwindCSS` `JavaScript` `Recharts` `Lucide React`
 
 🔗 [View Project](https://github.com/Kunal-1304/threat_intelligence_program)
+
 
 ---
 
@@ -102,6 +105,7 @@ An interactive cybersecurity dashboard for monitoring and analyzing simulated th
 - Worked with basic PowerShell installation and setup
 - Gained foundational exposure to cybersecurity tooling and environments
 
+
 ---
 
 ## 🎓 Certifications & Training
@@ -114,6 +118,7 @@ An interactive cybersecurity dashboard for monitoring and analyzing simulated th
 - 🛡️ **Cybersecurity Internship** — Cyber Secured India
 - 📊 **Security Internship** — Placify Technologies
 - 🔒 **Cybersecurity Internship** — Cybervidyapeeth Foundation
+
 
 ---
 
@@ -151,6 +156,7 @@ I'm currently focused on building practical cybersecurity skills through hands-o
   </picture>
 </p>
 
+
 ---
 
 ## 🤝 Let's Connect
@@ -164,6 +170,7 @@ I'm currently focused on building practical cybersecurity skills through hands-o
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
 
 ---
 
