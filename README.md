@@ -6,20 +6,6 @@
 
 <br>
 
-<p align="center">
-🔐 Web Security & VAPT
-&nbsp; • &nbsp;
-🛡️ SOC & Security Monitoring
-&nbsp; • &nbsp;
-⚙️ Security Automation
-&nbsp; • &nbsp;
-🕵️ Threat Intelligence
-</p>
-
-<p align="center">
-🐍 Python &nbsp; | &nbsp; 🐚 Bash &nbsp; | &nbsp; 🐧 Linux
-</p>
-
 <div align="center">
 
 <img src="./security-neofetch.svg" alt="Kunal Pawar security lab profile" width="900">
