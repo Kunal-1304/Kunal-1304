@@ -160,6 +160,8 @@ I'm currently focused on building practical cybersecurity skills through hands-o
   </a>
 </p>
 
+---
+
 <p align="center">
   <i>Interested in cybersecurity, security research, and building practical security tools.</i>
 </p>
