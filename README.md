@@ -135,3 +135,15 @@ I'm currently focused on building practical cybersecurity skills through hands-o
 - 🐧 Linux & Security Tooling
 
 > 🚧 Currently rebuilding and improving my security projects with a focus on practical implementation, documentation, and automation.
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  •
+  <a href="YOUR_EMAIL_LINK">Email</a>
+  •
+  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+</p>
