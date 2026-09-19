@@ -119,3 +119,19 @@ An interactive cybersecurity dashboard for monitoring and analyzing simulated th
 - 🛡️ **Cybersecurity Internship** — Cyber Secured India
 - 📊 **Security Internship** — Placify Technologies
 - 🔒 **Cybersecurity Internship** — Cybervidyapeeth Foundation
+
+---
+
+## 🎯 Current Focus
+
+I'm currently focused on building practical cybersecurity skills through hands-on projects, security research, and automation.
+
+- 🔐 Web Application Security & VAPT
+- ⚙️ Python & Bash Security Automation
+- 🕷️ Web Crawling & Security Data Extraction
+- 🛡️ SOC, SIEM & Security Monitoring
+- 🧠 Threat Intelligence & Security Analysis
+- 🦠 Malware Analysis & Sandbox Environments
+- 🐧 Linux & Security Tooling
+
+> 🚧 Currently rebuilding and improving my security projects with a focus on practical implementation, documentation, and automation.
