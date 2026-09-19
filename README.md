@@ -35,7 +35,6 @@ Currently, I'm focusing on strengthening my skills in **web application security
 
 > 🔎 **Security interests:** Web Security • VAPT • SOC • Threat Intelligence • Security Automation
 
-
 ---
 
 ## 🛠️ Technical Skills
@@ -57,3 +56,21 @@ Currently, I'm focusing on strengthening my skills in **web application security
 
 ### 🌐 Web & Networking
 `HTML` `CSS` `Networking` `TCP/IP` `Web Technologies`
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ Threat Intelligence Dashboard
+
+An interactive cybersecurity dashboard for monitoring and analyzing simulated threat intelligence data.
+
+- 📊 Visualizes threat types, geographic distribution, and historical trends
+- 🔎 Supports filtering by threat type, country, and time range
+- ⚠️ Performs confidence-based risk assessment and anomaly identification
+- 🔔 Includes real-time notifications and WhatsApp alert integration
+- 🧩 Designed with a modular architecture for future threat-intelligence API integrations
+
+**Tech:** `React` `TailwindCSS` `JavaScript` `Recharts` `Lucide React`
+
+🔗 [View Project](https://github.com/Kunal-1304/threat_intelligence_program)
