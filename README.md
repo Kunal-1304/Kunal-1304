@@ -74,3 +74,35 @@ An interactive cybersecurity dashboard for monitoring and analyzing simulated th
 **Tech:** `React` `TailwindCSS` `JavaScript` `Recharts` `Lucide React`
 
 🔗 [View Project](https://github.com/Kunal-1304/threat_intelligence_program)
+
+---
+
+## 💼 Experience
+
+### 🔐 Cybersecurity Intern — Cyber Secured India
+**Jun 2025 – Aug 2025**
+
+- Researched, installed, and configured security monitoring tools including `Wazuh`, `Suricata`, and `MISP`
+- Worked with NOC and network-monitoring tools including `PRTG` and `Zabbix`
+- Explored SOC workflows, security monitoring, alerting, and network visibility
+
+### 🛡️ VAPT Intern — CYART
+**Internship Completed**
+
+- Worked on practical web application security and VAPT activities
+- Documented weekly security-testing work and findings throughout the internship
+- Maintained structured internship reports covering the work performed
+
+📂 [Internship Documentation](https://github.com/Kunal-1304/cyart-vapt-team)
+
+### 📊 Security Intern — Placify Technologies
+**Jun 2024 – Aug 2024**
+
+- Monitored security logs and analyzed attack activity using `Splunk` and SIEM tools
+- Gained practical exposure to security monitoring and log analysis
+
+### 💻 Cybersecurity Intern — Cybervidyapeeth Foundation
+**Jun 2023 – Aug 2023**
+
+- Worked with basic PowerShell installation and setup
+- Gained foundational exposure to cybersecurity tooling and environments
