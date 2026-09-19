@@ -1,0 +1,44 @@
+name: Update GitHub Activity
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-github-activity
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub activity card
+        uses: shinpr/github-profile-stats@49b5f7091182a45f3ef93923505b660c6da5f835
+        id: stats
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ github.token }}
+          profile: signal-field
+
+      - name: Publish generated cards
+        env:
+          READY_DIR: ${{ steps.stats.outputs.ready-dir }}
+        run: |
+          mkdir -p profile
+          cp "$READY_DIR"/signal-field-wide-dark.svg profile/github-activity-dark.svg
+          cp "$READY_DIR"/signal-field-wide-light.svg profile/github-activity-light.svg
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/
+          git diff --cached --quiet || git commit -m "Update GitHub activity card"
+          git push
