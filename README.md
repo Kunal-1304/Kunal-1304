@@ -138,7 +138,7 @@ I'm currently focused on building practical cybersecurity skills through hands-o
 
 ## 📊 GitHub Activity
 
-<p align="center">
+<p>
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -151,7 +151,7 @@ I'm currently focused on building practical cybersecurity skills through hands-o
     <img
       src="./profile/github-activity-dark.svg"
       alt="GitHub activity statistics"
-      width="900"
+      width="700"
     />
   </picture>
 </p>
