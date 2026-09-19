@@ -149,14 +149,19 @@ I'm currently focused on building practical cybersecurity skills through hands-o
 
 ---
 
-## 🌐 Connect
+## 🤝 Let's Connect
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-  •
-  <a href="YOUR_EMAIL_LINK">Email</a>
-  •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  <a href="https://www.linkedin.com/in/kunal-pawar-243646350">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:kunalpawar13042004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<p align="center">
+  <i>Interested in cybersecurity, security research, and building practical security tools.</i>
 </p>
 
 ---
